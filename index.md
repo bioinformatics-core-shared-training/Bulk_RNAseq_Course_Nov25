@@ -85,7 +85,7 @@ differential expression analysis of RNA-seq data.
   
   -  [Linear Models in R and DESeq2 (Worksheet)](Bulk_RNAseq_Course_Base/Markdowns/07_Linear_Models.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/07_Linear_Models.pdf))  
   - [DESeq2 results extraction cheatsheet](Bulk_RNAseq_Course_Base/additional_scripts_and_materials/DESeq2_results_cheatsheet.pdf)
-
+	 + [Ian's Script](live_scripts/diff_exp_ian_day2.R)
 
 13:00 - 14:00 Lunch
 
